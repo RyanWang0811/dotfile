@@ -25,10 +25,16 @@
   - https://github.com/pyenv/pyenv
 
 - install nvm
+  
+  - https://github.com/nvm-sh/nvm
 
 - install gvm
 
+  - https://github.com/moovweb/gvm
+
 - install tfswitch
+
+  - https://tfswitch.warrensbox.com/
 
 - install kubectl + kubectx
 
